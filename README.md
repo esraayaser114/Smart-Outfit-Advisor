@@ -74,6 +74,12 @@ python app.py
 
 ## 👥 Team
 
+* **Esraa Yasser**
+* **Sama Islam**
+* **Rawan Tafeesh**
+* **Nicole Nader**
+
+
 Developed as a team project focused on applying Computer Vision and AI to real-world fashion recommendations.
 
 ## 📌 Future Improvements
