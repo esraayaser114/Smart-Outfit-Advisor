@@ -540,7 +540,7 @@ Project Team Member
 
 | Team Member       | Contribution                                   |
 | ----------------- | ---------------------------------              |
-|**Sama Islam**     | Clothing dtection                              |
+|**Sama Eslam**     | Clothing dtection                              |
 |**Rawan Tafeesh**  | Color Analysis                                 |
 |**Nicole Nader**   | Outfit Suitability Evaluation                  |
 |**Esraa Yasser**   | Project Development & Integration & Deployment |
