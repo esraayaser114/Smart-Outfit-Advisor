@@ -499,7 +499,7 @@ This project was developed collaboratively by:
 | Team Member | Contribution |
 |---|---|
 | **Esraa Yasser** | Project development, integration, and deployment |
-| **Sama Islam** | Clothing detection |
+| **Sama Eslam** | Clothing detection |
 | **Rawan Tafeesh** | Color analysis |
 | **Nicole Nader** | Outfit suitability evaluation |
 
